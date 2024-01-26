@@ -1,0 +1,24 @@
+[2023-10-18 15:39:55] Listening
+[2023-10-18 15:40:10] Request from client 192.168.100.6 enqueued
+[2023-10-18 15:40:10] QueryMessage request from 192.168.100.6 with messageID 192.168.100.6:10 for file file10.txt
+[2023-10-18 15:40:10] QueryMessage request from 192.168.100.6 with messageID 192.168.100.6:10 for file file10.txt is a new request
+[2023-10-18 15:40:10] File found in local computer requested by 192.168.100.6 with ID 192.168.100.6:10 for file file10.txt
+[2023-10-18 15:40:10] sending query message 192.168.100.6:10 to neighbour server 192.168.100.6[2023-10-18 15:40:10] hit message 192.168.100.6:10 sent back to 192.168.100.6
+[2023-10-18 15:40:25] Request from client 192.168.100.6 enqueued
+[2023-10-18 15:40:25] QueryMessage request from 192.168.100.6 with messageID 192.168.100.6:11 for file file10.txt
+[2023-10-18 15:40:25] QueryMessage request from 192.168.100.6 with messageID 192.168.100.6:11 for file file10.txt is a new request
+[2023-10-18 15:40:25] File found in local computer requested by 192.168.100.6 with ID 192.168.100.6:11 for file file10.txt
+[2023-10-18 15:40:25] hit message 192.168.100.6:11 sent back to 192.168.100.6
+[2023-10-18 15:40:25] sending query message 192.168.100.6:11 to neighbour server 192.168.100.6[2023-10-18 15:40:25] Request from client 192.168.100.6 enqueued
+[2023-10-18 15:40:25] Download request from 192.168.100.6 for file  file10.txt
+[2023-10-18 15:40:25] file10.txt opened for download
+[2023-10-18 15:42:10] Listening
+[2023-10-18 15:42:19] Request from client 192.168.100.6 enqueued
+[2023-10-18 15:42:19] QueryMessage request from 192.168.100.6 with messageID 192.168.100.6:10 for file file10.txt
+[2023-10-18 15:42:19] QueryMessage request from 192.168.100.6 with messageID 192.168.100.6:10 for file file10.txt is a new request
+[2023-10-18 15:42:19] File found in local computer requested by 192.168.100.6 with ID 192.168.100.6:10 for file file10.txt
+[2023-10-18 15:42:19] hit message 192.168.100.6:10 sent back to 192.168.100.6
+[2023-10-18 15:42:19] sending query message 192.168.100.6:10 to neighbour server 192.168.100.6[2023-10-18 15:42:19] Request from client 192.168.100.6 enqueued
+[2023-10-18 15:42:19] Download request from 192.168.100.6 for file  file10.txt
+[2023-10-18 15:42:19] file10.txt opened for download
+[2024-01-26 09:10:46] Listening
