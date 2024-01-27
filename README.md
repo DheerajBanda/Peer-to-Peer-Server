@@ -41,11 +41,11 @@
   <li>Compile the Server:</li>
         <ul>
           <li>Open a terminal and run the following command to compile the server:</li>
-          _gcc -o peer_to_peer peer_to_peer_server.c_
+          <strong>gcc -o peer_to_peer peer_to_peer_server.c</strong>
         </ul>
   <li>Run the Server:</li>
         <ul>
           <li>Execute the compiled server with the config.txt file as an argument:</li>
-          _./peer_to_peer config.txt_
+          <strong>./peer_to_peer config.txt</strong>
         </ul>
 </ol>
