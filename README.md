@@ -26,10 +26,10 @@
   <li>Create Configuration File:</li>
   <ul>
     <li>Write the config.txt file with the following format:</li>
-      <pre>
-      &lt;ip_address_1&gt; &lt;port_1&gt;
-      &lt;ip_address_2&gt; &lt;port_2&gt;
-      </pre>
+    <pre>
+    &lt;ip_address_1&gt; &lt;port_1&gt;
+    &lt;ip_address_2&gt; &lt;port_2&gt;
+    </pre>
       <p>Specify the IP addresses and ports of the neighboring servers, with each entry on a new line.</p>
     <li>Example Configuration (config.txt)</li>
     <pre>
