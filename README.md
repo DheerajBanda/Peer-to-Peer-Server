@@ -41,7 +41,7 @@
   <li>Compile the Server:</li>
         <ul>
           <li>Open a terminal and run the following command to compile the server:</li>
-          <strong>gcc -o peer_to_peer peer_to_peer_server.c</strong>
+          <strong>gcc -o peer_to_peer peer_to_peer.c</strong>
         </ul>
   <li>Run the Server:</li>
         <ul>
