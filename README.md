@@ -33,9 +33,9 @@
       <p>Specify the IP addresses and ports of the neighboring servers, with each entry on a new line.</p>
     <li>Example Configuration (config.txt)</li>
     <pre>
-        192.168.1.2 5001<br>
-        192.168.1.3 5002<br>
-        192.168.1.4 5003<br>
+        192.168.1.2 5001
+        192.168.1.3 5002
+        192.168.1.4 5003
     </pre>
   </ul>
   <li>Compile the Server:</li>
